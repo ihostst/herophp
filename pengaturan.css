@@ -1,0 +1,245 @@
+
+
+/*KOTAK ATAS TUTUP GARIS TEGAK*/
+.atas-garis-tegak{
+background: red;//#800000;
+color:white;
+valign:middle;
+vertical-align:center;
+width: 102.5%;
+height: 40px ;
+padding-top: 15px;
+border-radius: 10px;
+border-top:1px solid white;
+border-bottom:1px solid white;
+border-left:1px solid white;
+border-right:1px solid white;
+margin-top: 0px;
+margin-left: -5px;
+}
+
+/*KOTAK USER AKTIF*/
+.user-aktif{
+background: red;//#800000;
+color:white;
+valign:middle;
+vertical-align:center;
+width: 102.5%;
+height: 40px ;
+padding-top: 15px;
+border-radius: 10px;
+border-top:1px solid white;
+border-bottom:1px solid white;
+border-left:1px solid white;
+border-right:1px solid white;
+margin-top: 10px;
+margin-left: -5px;
+}
+
+div.garisAtasHitam
+{
+background:#000; height:30px; width:100%; margin-left: 0px; padding-right:auto; margin-bottom:px; margin-top:30px;
+}
+
+/*GARIS BORDER TEGAK */
+
+div.garisBorderKiriKanan
+{
+background:#dcdcdc;
+color: black; 
+text-align:left; 
+valign:middle ;  
+border: 5px inset blue ; 
+high: 100%;
+width:100%; 
+margin: 3px;
+margin-right:8px;
+border-bottom: 1px inset;
+}
+
+
+/*GARIS BAWAH JUDUL #006400;*/
+div.garisBawahJudul{
+background: red;
+color:#ffffff;
+/*text-align:left;*/
+valign:middle;
+border: 2px solid blue;
+border-radius: 14px;
+height:3px;
+width: 99%;
+}
+
+div.gariskiri
+{
+background-color:blue;
+width:4px;
+height:100%;
+}
+
+div.gariskanan
+{
+background-color:blue;
+width:101;
+height:100%;
+margin-left:95%;
+}
+
+/*
+.gambar { body background-image:url(/landing.jpeg);
+background-size: cover;
+Tambahkan baris berikut}
+/
+*/
+
+#content tr: hover {
+background-color: #929292;
+}
+#content .first {
+background: white;
+color: black;
+}
+h1 {
+font-family: "rye", cursive ;
+color: black;
+margin-top : 5px;
+}
+a {
+color: red;
+text-decoration: none;
+}
+a: hover {
+color: #fff;
+}
+input,select,textarea {
+border: 1px #fff solid;
+-moz-border-radius: 5px;
+-webkit-border-radius:5px;
+border-radius:5px;
+}
+
+body {
+font size: 50px;
+background: #00FF00 ;
+color: #000; 
+}
+
+div.badan {
+font-size: .89em;
+background:#dcdcdc;
+color:black
+vertical-align: center;
+width:102%; 
+height:auto;
+border-radius:4px ;
+nborder-top:50px solid #800000 ;
+border-bottom:3px solid yellow;
+border-left:3px solid green;
+border-right:3px solid green;
+margin-left:-6px;
+margin-right:102%;
+margin-top:-8px;
+margin-bottom:
+}
+
+.jarak-pading{
+padding-top:4px;
+padding-left:10px;
+padding-bottom:4px;
+padding-right:10px;
+}
+
+.kotak-kecil-input{
+background:green;
+color:white;
+width:70px; 
+height:18px;
+border-radius:4px;
+border-top:1px solid white;
+border-bottom:1px solid white;
+border-left:1px solid white;
+border-right:1px solid white;
+padding-left:3px;
+margin-right:1px;
+}
+
+.ukuran-huruf-sedang{
+font-size: .89em;
+}
+
+div.kotakWarnaPenutup{
+background: #800000;
+border-radius: 10px;
+padding-top: 50px;
+/*vertical-align: center;*/
+width: auto ;
+height: 100px;
+border : 1px solid black;
+}
+/*
+
+
+{
+rgba(0,0,0,0.2),0 0 0 1px;
+rgba(0,0,0,0.08);
+rgba(0,0,0,0.2),0 0 0 1px rgba(0,0,0,0.08)
+rgba(0,0,0,0.2),0 0 0 1px rgba(0,0,0,0.08)"
+}
+
+{
+color:rgba(0,0,0,.54);padding-left:27px;
+}
+
+.b0KoTc .UnWzvd
+{
+margin-left:13px
+}
+
+.Q8LRLc
+{
+font-size:15px
+}
+.b0KoTc
+{
+margin-left:30px;text-align:left
+}
+.b2hzT
+{
+border-bottom:1px solid #e4e4e4
+}
+
+<!--
+ "cellpadding="3" cellspacing="1" align="center"-->
+
+table {
+font-family : verdana, arial, sans
+font-size : 11px;
+color : #333333;
+border-width : 1px;
+border-color : #3A3A3A;
+border-collapse : collapse;
+}
+
+table th {
+border-width : 1px;
+padding : 8px;
+border-style : solid;
+border-color : #FFA6A6;
+background-color : #D56A6A;
+color : #ffffff;
+}
+table tr :hover td {
+cursor : pointer;
+}
+table tr :nth-child(even) td{
+background-color : #F7CFCF;
+}
+table td {
+border-width : 1px;
+padding : 8px;
+border-style : solid;
+border-color : #FFA6A6;
+background-color : #ffffff;
+}
+*/
+
